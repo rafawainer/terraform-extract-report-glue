@@ -1,0 +1,1 @@
+# terraform-extract-report-glue
